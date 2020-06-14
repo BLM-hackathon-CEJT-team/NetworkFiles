@@ -1,0 +1,135 @@
+,boardNumber,Precinct,Email,Zip,Nodes,Sheet,District,Name,Borough,Party,Sheet_Index,Label
+0,,,,,0,City Council Members,14.0,Fernando Cabrera,Bronx,Democrat,1.0,Fernando Cabrera
+1,,,,,1,City Council Members,11.0,Andrew Cohen,Bronx,Democrat,3.0,Andrew Cohen
+2,,,,,2,City Council Members,16.0,Vanessa L Gibson,Bronx,Democrat,14.0,Vanessa L Gibson
+3,,,,,3,City Council Members,12.0,Andy King,Bronx,Democrat,17.0,Andy King
+4,,,,,4,City Council Members,8.0,Diana Ayala,Bronx,Democrat,27.0,Diana Ayala
+5,,,,,5,City Council Members,18.0,Ruben Diaz Sr.,Bronx,Democrat,33.0,Ruben Diaz Sr.
+6,,,,,6,City Council Members,15.0,Ritchie Torres,Bronx,Democrat,38.0,Ritchie Torres
+7,,,,,7,City Council Members,13.0,Mark Gjonaj,Bronx,Democrat,41.0,Mark Gjonaj
+8,,,,,8,City Council Members,17.0,Rafael Salamanca,Bronx,Democrat,52.0,Rafael Salamanca
+9,,,,,9,City Council Members,42.0,Inez Barron,Brooklyn,Democrat,0.0,Inez Barron
+10,,,,,10,City Council Members,36.0,Robert Cornegy,Brooklyn,Democrat,4.0,Robert Cornegy
+11,,,,,11,City Council Members,35.0,Laurie Cumbo,Brooklyn,Democrat,7.0,Laurie Cumbo
+12,,,,,12,City Council Members,48.0,Chaim M. Deutsch,Brooklyn,Democrat,8.0,Chaim M. Deutsch
+13,,,,,13,City Council Members,37.0,Rafael Espinal,Brooklyn,Democrat,10.0,Rafael Espinal
+14,,,,,14,City Council Members,40.0,Mathieu Eugene,Brooklyn,Democrat,11.0,Mathieu Eugene
+15,,,,,15,City Council Members,43.0,Justin Brannan,Brooklyn,Democrat,13.0,Justin Brannan
+16,,,,,16,City Council Members,44.0,Kalman Yeger,Brooklyn,Democrat,15.0,Kalman Yeger
+17,,,,,17,City Council Members,39.0,Brad Lander,Brooklyn,Democrat,22.0,Brad Lander
+18,,,,,18,City Council Members,33.0,Stephen Levin,Brooklyn,Democrat,23.0,Stephen Levin
+19,,,,,19,City Council Members,46.0,Alan Maisel,Brooklyn,Democrat,25.0,Alan Maisel
+20,,,,,20,City Council Members,41.0,Alicka Ampry-Samuel,Brooklyn,Democrat,29.0,Alicka Ampry-Samuel
+21,,,,,21,City Council Members,38.0,Carlos Menchaca,Brooklyn,Democrat,30.0,Carlos Menchaca
+22,,,,,22,City Council Members,47.0,Mark Treyger,Brooklyn,Democrat,39.0,Mark Treyger
+23,,,,,23,City Council Members,45.0,Farah Louis,Brooklyn,Democrat,44.0,Farah Louis
+24,,,,,24,City Council Members,34.0,Antonio Reynoso,Brooklyn,Democrat,49.0,Antonio Reynoso
+25,,,,,25,City Council Members,1.0,Margaret Chin,Manhattan,Democrat,2.0,Margaret Chin
+26,,,,,26,City Council Members,4.0,Keith Powers,Manhattan,Democrat,12.0,Keith Powers
+27,,,,,27,City Council Members,3.0,Corey Johnson,Manhattan,Democrat,16.0,Corey Johnson
+28,,,,,28,City Council Members,5.0,Ben Kallos,Manhattan,Democrat,18.0,Ben Kallos
+29,,,,,29,City Council Members,7.0,Mark Levine,Manhattan,Democrat,24.0,Mark Levine
+30,,,,,30,City Council Members,8.0,Diana Ayala,Manhattan,Democrat,26.0,Diana Ayala
+31,,,,,31,City Council Members,2.0,Carlina Rivera,Manhattan,Democrat,31.0,Carlina Rivera
+32,,,,,32,City Council Members,10.0,Ydanis Rodriguez,Manhattan,Democrat,35.0,Ydanis Rodriguez
+33,,,,,33,City Council Members,6.0,Helen Rosenthal,Manhattan,Democrat,37.0,Helen Rosenthal
+34,,,,,34,City Council Members,9.0,Bill Perkins,Manhattan,Democrat,50.0,Bill Perkins
+35,,,,,35,City Council Members,22.0,Costa Constantinides,Queens,Democrat,5.0,Costa Constantinides
+36,,,,,36,City Council Members,30.0,Robert Holden,Queens,Democrat,6.0,Robert Holden
+37,,,,,37,City Council Members,25.0,Daniel Dromm,Queens,Democrat,9.0,Daniel Dromm
+38,,,,,38,City Council Members,20.0,Peter Koo,Queens,Democrat,19.0,Peter Koo
+39,,,,,39,City Council Members,29.0,Karen Koslowitz,Queens,Democrat,20.0,Karen Koslowitz
+40,,,,,40,City Council Members,24.0,Rory Lancman,Queens,Democrat,21.0,Rory Lancman
+41,,,,,41,City Council Members,27.0,I. Daneek Miller,Queens,Democrat,32.0,I. Daneek Miller
+42,,,,,42,City Council Members,31.0,Donovan Richards,Queens,Democrat,34.0,Donovan Richards
+43,,,,,43,City Council Members,32.0,Eric Ulrich,Queens,Republican,40.0,Eric Ulrich
+44,,,,,44,City Council Members,19.0,Paul Vallone,Queens,Democrat,42.0,Paul Vallone
+45,,,,,45,City Council Members,26.0,Jimmy Van Bramer,Queens,Democrat,43.0,Jimmy Van Bramer
+46,,,,,46,City Council Members,21.0,Francisco Moya,Queens,Democrat,45.0,Francisco Moya
+47,,,,,47,City Council Members,28.0,Adrienne Adams,Queens,,46.0,Adrienne Adams
+48,,,,,48,City Council Members,34.0,Antonio Reynoso,Queens,Democrat,48.0,Antonio Reynoso
+49,,,,,49,City Council Members,23.0,Barry Grodenchik,Queens,Democrat,51.0,Barry Grodenchik
+50,,,,,50,City Council Members,50.0,Steven Matteo,Staten Island,Republican,28.0,Steven Matteo
+51,,,,,51,City Council Members,49.0,Deborah Rose,Staten Island,Democrat,36.0,Deborah Rose
+52,,,,,52,City Council Members,51.0,Joseph Borelli,Staten Island,Republican,47.0,Joseph Borelli
+53,1.0,"['1', '5', '7']",man01@cb.nyc.gov,10007.0,53,Manhattan Board,,,,,0.0,Manhattan Board 1
+54,2.0,"['1', '5', '6', '9']",bgormley@cb.nyc.gov,10012.0,54,Manhattan Board,,,,,1.0,Manhattan Board 2
+55,3.0,"['5', '7', '9']",mn03@cb.nyc.gov,10003.0,55,Manhattan Board,,,,,2.0,Manhattan Board 3
+56,4.0,"['10', '13', 'MSP', 'MNP']",mn03@cb.nyc.gov,10003.0,56,Manhattan Board,,,,,4.0,Manhattan Board 4
+57,5.0,"['10', 'MSP', 'MNP']",office@cb5.org,10123.0,57,Manhattan Board,,,,,5.0,Manhattan Board 5
+58,6.0,"['13', '17']",info@cbsix.org,10017.0,58,Manhattan Board,,,,,6.0,Manhattan Board 6
+59,7.0,"['20', '24', 'CPP']",office@cb7.org,10024.0,59,Manhattan Board,,,,,7.0,Manhattan Board 7
+60,8.0,"['19', 'CPP']",info@cb8m.com,10022.0,60,Manhattan Board,,,,,8.0,Manhattan Board 8
+61,9.0,"['26', '30']",nyc-cb9m@juno.com,10027.0,61,Manhattan Board,,,,,9.0,Manhattan Board 9
+62,10.0,"['28', '32']",mn10@cb.nyc.gov,10027.0,62,Manhattan Board,,,,,10.0,Manhattan Board 10
+63,11.0,"['23', '25']",mn11@cb.nyc.gov,10035.0,63,Manhattan Board,,,,,11.0,Manhattan Board 11
+64,12.0,"['33', '34']",mn11@cb.nyc.gov,10035.0,64,Manhattan Board,,,,,12.0,Manhattan Board 12
+65,1.0,['34'],qn01@cb.nyc.gov,11105.0,65,Queens Board,,,,,0.0,Queens Board 1
+66,2.0,['108'],qn02@cb.nyc.govv,11377.0,66,Queens Board,,,,,1.0,Queens Board 2
+67,3.0,['115'],communityboard3@nyc.rr.com,11372.0,67,Queens Board,,,,,2.0,Queens Board 3
+68,4.0,['110'],QN04@cb.nyc.gov,11368.0,68,Queens Board,,,,,3.0,Queens Board 4
+69,5.0,['104'],qn05@cb.nyc.gov,11385.0,69,Queens Board,,,,,4.0,Queens Board 5
+70,6.0,['112'],qn06@cb.nyc.gov,11377.0,70,Queens Board,,,,,5.0,Queens Board 6
+71,7.0,['109'],qn07@cb.nyc.gov,11355.0,71,Queens Board,,,,,6.0,Queens Board 7
+72,8.0,['107'],qn08@cb.nyc.gov,11423.0,72,Queens Board,,,,,7.0,Queens Board 8
+73,9.0,['102'],communitybd9@nyc.rr.com,11424.0,73,Queens Board,,,,,8.0,Queens Board 9
+74,10.0,['106'],cb10qns@nyc.rr.com,11420.0,74,Queens Board,,,,,9.0,Queens Board 10
+75,11.0,['111'],cb11q@nyc.rr.com,11362.0,75,Queens Board,,,,,10.0,Queens Board 11
+76,12.0,['103'],qn12@cb.nyc.gov,11432.0,76,Queens Board,,,,,11.0,Queens Board 12
+77,13.0,['105'],mmcmillan@qcb13.org,11428.0,77,Queens Board,,,,,12.0,Queens Board 13
+78,14.0,['100'],mmcmillan@qcb13.org,11691.0,78,Queens Board,,,,,13.0,Queens Board 14
+79,1.0,,bk01@cb.nyc.gov,11211.0,79,Brooklyn Board,34.0,,,,0.0,Brooklyn Board 1
+80,2.0,,cb2k@nyc.rr.com,11201.0,80,Brooklyn Board,33.0,,,,1.0,Brooklyn Board 2
+81,3.0,,bk03@cb.nyc.gov,11216.0,81,Brooklyn Board,36.0,,,,2.0,Brooklyn Board 3
+82,4.0,,BK04@cb.nyc.gov,11207.0,82,Brooklyn Board,37.0,,,,3.0,Brooklyn Board 4
+83,5.0,,bk05@cb.ny.gov,11208.0,83,Brooklyn Board,42.0,,,,4.0,Brooklyn Board 5
+84,6.0,,info@Brooklyn.CB6.org,11201.0,84,Brooklyn Board,39.0,,,,5.0,Brooklyn Board 6
+85,7.0,,bk07@cb.nyc.gov,11232.0,85,Brooklyn Board,38.0,,,,6.0,Brooklyn Board 7
+86,8.0,,info@brooklyncb8.org,11213.0,86,Brooklyn Board,36.0,,,,7.0,Brooklyn Board 8
+87,9.0,,bk09@cb.nyc.gov,11225.0,87,Brooklyn Board,35.0,,,,8.0,Brooklyn Board 9
+88,10.0,,bk10@cb.nyc.gov,11209.0,88,Brooklyn Board,43.0,,,,9.0,Brooklyn Board 10
+89,11.0,,bk11@cb.nyc.gov,11214.0,89,Brooklyn Board,47.0,,,,10.0,Brooklyn Board 11
+90,12.0,,bk12@cb.nyc.gov,11219.0,90,Brooklyn Board,44.0,,,,11.0,Brooklyn Board 12
+91,13.0,,Info@bk13@cb.nyc.gov,11224.0,91,Brooklyn Board,47.0,,,,12.0,Brooklyn Board 13
+92,14.0,,Info@cb14brooklyn.com,11239.0,92,Brooklyn Board,45.0,,,,13.0,Brooklyn Board 14
+93,15.0,,bklcb15@verizon.net,11235.0,93,Brooklyn Board,48.0,,,,14.0,Brooklyn Board 15
+94,16.0,,bk16@cb.nyc.gov,11212.0,94,Brooklyn Board,41.0,,,,15.0,Brooklyn Board 16
+95,17.0,,bk17@cb.nyc.gov,11210.0,95,Brooklyn Board,45.0,,,,16.0,Brooklyn Board 17
+96,18.0,,bkbrd18@optonline.net,11234.0,96,Brooklyn Board,46.0,,,,17.0,Brooklyn Board 18
+97,1.0,['40'],brxcb1@optonline.net,10455.0,97,Bronx Board,,,,,0.0,Bronx Board 1
+98,2.0,['41'],brxcb2@optonline.net,10459.0,98,Bronx Board,,,,,1.0,Bronx Board 2
+99,3.0,['42'],Brxcomm3@optonline.net,10456.0,99,Bronx Board,,,,,2.0,Bronx Board 3
+100,4.0,['44'],bx04@cb.nyc.gov,10457.0,100,Bronx Board,,,,,3.0,Bronx Board 4
+101,5.0,['46'],brxcb5@optonline.net,10453.0,101,Bronx Board,,,,,4.0,Bronx Board 5
+102,6.0,['48'],bronxcb6@bronxcb6.org,10457.0,102,Bronx Board,,,,,5.0,Bronx Board 6
+103,7.0,['52'],ibravo@cb.nyc.gov,10458.0,103,Bronx Board,,,,,6.0,Bronx Board 7
+104,8.0,['50'],bx08@cb.nyc.gov,10471.0,104,Bronx Board,,,,,7.0,Bronx Board 8
+105,9.0,['43'],bxbrd09@optonline.net,10473.0,105,Bronx Board,,,,,8.0,Bronx Board 9
+106,10.0,['45'],bx10@cb.nyc.gov,10461.0,106,Bronx Board,,,,,9.0,Bronx Board 10
+107,11.0,['49'],,10462.0,107,Bronx Board,,,,,10.0,Bronx Board 11
+108,12.0,['47'],gtorres@cb.nyc.gov,10466.0,108,Bronx Board,,,,,11.0,Bronx Board 12
+109,1.0,['120'],sicb1@si.rr.com,10305.0,109,Staten Island Board,,,,,0.0,Staten Island Board 1
+110,2.0,['122'],dderrico@cb.nyc.gov,10314.0,110,Staten Island Board,,,,,1.0,Staten Island Board 2
+111,3.0,['123'],sicb3@cb.nyc.gov,10309.0,111,Staten Island Board,,,,,2.0,Staten Island Board 3
+112,,,,,112,,,,,,,People of NYC
+113,,,,,113,,,,,,,Borough Presidents
+114,,,,,114,,,,,,,Borough Boards
+115,,,,,115,,,,,,,Comptroller
+116,,,,,116,,,,,,,Community Boards
+117,,,,,117,,,,,,,Financial Information Services Agency
+118,,,,,118,,,,,,,Office of Payroll Administration
+119,,,,,119,,,,,,,Procurement Policy Board
+120,,,,,120,,,,,,,Mayor
+121,,,,,121,,,,,,,Public Advocate
+122,,,,,122,,,,,,,City Council
+123,,,,,123,,,,,,,Bronx Members
+124,,,,,124,,,,,,,Manhattan Members
+125,,,,,125,,,,,,,Brooklyn Members
+126,,,,,126,,,,,,,Queens Members
+127,,,,,127,,,,,,,Staten Island Members
+128,,,,,128,,,,,,,City Clerk
+129,,,,,129,,,,,,,Clerks
+130,,,,,130,,,,,,,Clerk of the Counsel
+131,,,,,131,,,,,,,District Attorneys
+132,,,,,132,,,,,,,Office of Special Narcotics
+133,,,,,133,,,,,,,Independent Budget Office
